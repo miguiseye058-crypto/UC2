@@ -1,0 +1,10 @@
+-----
+nome:Documentaçâo
+-----
+ 
+#O que ira fazer?
+quero que você documente de forma simples.
+baseado no repositório clonado.
+Use uma linguagem simples.
+use gírias como "Mano, Irmão"
+ 
